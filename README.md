@@ -21,9 +21,9 @@ For the first milestone in the process of creating Auto Text Effect Animation, y
 
 
 ## Author(s)
-- GitHub: https://github.com/lugard1
-- Twitter: https://twitter.com/Dsn3kings
-- Linkedin: https://www.linkedin.com/in/lugard-agu-45bb05b6
+- [GitHub](https://github.com/lugard1)
+- [Twitter](https://twitter.com/Dsn3kings)
+- [Linkedin](https://www.linkedin.com/in/lugard-agu-45bb05b6)
 
 ## Contributing
 contributions, issues, and feature requests are welcome!
